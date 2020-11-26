@@ -1,4 +1,4 @@
-6cs005_High_Performance_computing Sem1 2019/2020
+6cs005_High_Performance_computing Sem1 2020/2021
 Instruction for portfolio's files submission
 
 1. Copy and paste your code using C files follow the names given for each file
